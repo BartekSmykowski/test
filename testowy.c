@@ -12,14 +12,14 @@ int main() {
 
 	int min = 0;
 	int max = 0;
-
+	int *pierwsze;
 
 
 	for (; liczba_testow > 0; liczba_testow--) {
 		scanf("%d %d", &min, &max);
 
 
-
+		
 	
 	}
 
